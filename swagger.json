@@ -5,11 +5,10 @@
     "description": "Tourism API",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+  "host": "tourism-app-api.onrender.com",
   "basePath": "/",
   "schemes": [
-    "https",
-    "http"
+    "https"
   ],
   "paths": {
     "/": {
